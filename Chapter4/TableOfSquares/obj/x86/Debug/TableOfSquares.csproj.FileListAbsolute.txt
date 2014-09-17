@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Documents\GitHub\Chapter4\Chapter4\TableOfSquares\bin\Debug\TableOfSquares.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter4\Chapter4\TableOfSquares\bin\Debug\TableOfSquares.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter4\Chapter4\TableOfSquares\obj\x86\Debug\TableOfSquares.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter4\Chapter4\TableOfSquares\obj\x86\Debug\TableOfSquares.pdb

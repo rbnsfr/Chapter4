@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Documents\GitHub\Chapter4\Chapter4\EvenNums\bin\Debug\EvenNums.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter4\Chapter4\EvenNums\bin\Debug\EvenNums.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter4\Chapter4\EvenNums\obj\x86\Debug\EvenNums.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter4\Chapter4\EvenNums\obj\x86\Debug\EvenNums.pdb
