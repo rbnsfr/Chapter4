@@ -9,6 +9,7 @@ namespace Sum50
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

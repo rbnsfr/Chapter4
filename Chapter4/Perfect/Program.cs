@@ -11,7 +11,7 @@ namespace Perfect
         {
             for (int i = 0; i < 1000; i++)
             {
-                if (i == i / 2) { }
+                if (i == i * i) { }
             }
         }
     }
